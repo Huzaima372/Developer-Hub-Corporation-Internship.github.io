@@ -77,7 +77,7 @@ Developer-Hub-Corporation-internship/
 
 │ ├── disease_prediction.ipynb
 
-│ └── report_week1.pdf
+│ └── report_week1.docx
 
 │
 
@@ -95,7 +95,7 @@ Developer-Hub-Corporation-internship/
 
 │ ├── skin_cancer_resnet50.ipynb
 
-│ └── report_skin_cancer.pdf
+│ └── report_skin_cancer.docx
 
 │
 
@@ -103,7 +103,7 @@ Developer-Hub-Corporation-internship/
 
 │ ├── pneumonia_cnn.ipynb
 
-│ └── report_pneumonia.pdf
+│ └── report_pneumonia.docx
 
 │
 
