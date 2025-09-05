@@ -64,8 +64,7 @@ The main goal is to compare the performance of a **custom CNN model** with a **p
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/DHC-Internship-MLDL.git
-cd project2_cancer_detection
+https://github.com/Huzaima372/Developer-Hub-Corporation-Internship.github.io/tree/main/week2_cancer_detection
 ```
 
 ### 2. Run the notebook/script
